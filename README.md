@@ -1,3 +1,7 @@
+# About ME
+[윤혜구.이력서](https://github.com/une9/une9/blob/1d7a24dc4d9a78d12b6a1d0a8fcaf9fc4313aefa/%EC%9C%A4%ED%98%9C%EA%B5%AC.%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+[윤혜구.포트폴리오]()
+
 # TIL
 [TIL REPOSITORY](https://github.com/une9/TIL)
 

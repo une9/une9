@@ -4,8 +4,10 @@
 <br>
 
 # Projects
-|Groovies|영화 추천 커뮤니티|[repo](https://github.com/une9/Groovies.git)|
-|POSTMISSION|뮤지컬 아카이빙 커뮤니티|[repo]()|
+| 서비스명 | 개요 | source |
+| - | - | - |
+| Groovies | 영화 추천 커뮤니티 | [repo](https://github.com/une9/Groovies.git) |
+| POSTMISSION | 뮤지컬 아카이빙 커뮤니티 | [repo](https://github.com/post-mission/frontend.git) |
 <br>
 
 # TIL
